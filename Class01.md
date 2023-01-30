@@ -34,3 +34,20 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 ### Unordered Lists
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+
+## Links
+
+To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
+
+### Titles 
+
+You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in quotation marks after the URL.
+
+### URLs and Email Addresses
+
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
+
+###
+
+To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets.
+
