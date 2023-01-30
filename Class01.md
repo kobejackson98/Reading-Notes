@@ -1,6 +1,6 @@
 # Class 01
 
-## Here is What We Learned About In The Readings ( Markdown Guide) (https://www.markdownguide.org/basic-syntax/)
+## Here is What We Learned About In The Readings (Markdown Guide) (https://www.markdownguide.org/basic-syntax/)
 
 ## Headings
 The Different Heading Levels are created by #
