@@ -2,7 +2,7 @@
 Notes For Code Crew 
 
 
-##[Class 0](/Reading-Notes/Class01)
+## [Class 01](/Reading-Notes/Class01)
 
 Today we made a Github Page Site
 
