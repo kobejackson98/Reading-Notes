@@ -52,7 +52,18 @@ First Shortcut: When the user enters commands, those commands are stored in hist
 
 #### Abbreviations: A Lot of Commands in Linux are named as an abbreviation of a word or words describing them, by doing this it makes them easier to remember.
 
-** PWD** - Print Working Directory (This command tells you what your current or present working directory is) 
-  - ** PWD ** is important, because a lot of commands on the terminal  will rely on me being in the right location, I need to make use of this command to remind myself of where I presently are working.
+**PWD** - Print Working Directory (This command tells you what your current or present working directory is) 
+  - **PWD** is important, because a lot of commands on the terminal  will rely on me being in the right location, I need to make use of this command to remind myself of where I presently are working.
 
-** ls ** - List ( This command tells you what is in your current directory. But ** ls ** can be used more powerfully 
+**ls** - List ( This command tells you what is in your current directory. But ** ls ** can be used more powerfully 
+
+
+#### Paths 
+
+ A **path** is a means to get a particular file or directory on your system.
+ 
+ What are are two different types of **paths**?
+ 1. **Absolute Paths** -  Specify a location ( directory or file) in relation to the root directory. *Tip* You can identify them easily as they always begin with a forward slash (/)
+
+
+ 2. **Relative Paths** -  Specify a location ( directory or file) in relation to where we currently are in the system. *Tip* They will not begin with a slash.
