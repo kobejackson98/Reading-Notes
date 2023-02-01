@@ -63,7 +63,17 @@ First Shortcut: When the user enters commands, those commands are stored in hist
  A **path** is a means to get a particular file or directory on your system.
  
  What are are two different types of **paths**?
- 1. **Absolute Paths** -  Specify a location ( directory or file) in relation to the root directory. *Tip* You can identify them easily as they always begin with a forward slash (/)
+ 1. **Absolute Paths** -  Specify a location ( directory or file) in relation to the root directory. *Tip* : You can identify them easily as they always begin with a forward slash (/)
 
 
- 2. **Relative Paths** -  Specify a location ( directory or file) in relation to where we currently are in the system. *Tip* They will not begin with a slash.
+ 2. **Relative Paths** -  Specify a location ( directory or file) in relation to where we currently are in the system. *Tip* : They will not begin with a slash.
+
+
+#### Additional Info 
+
+**~** (tilde) - This is a shortcut for your home directory.
+**.** (dot) -  This is a reference to your current directory.
+**..** (dotdot)  - This is a reference to the parent directory.
+
+**cd** - Stands for change of directory, also allows you to move around in the system. *Tip* : If the user runs this command **cd** without any arguments then it will take the user back to the home directory.
+
