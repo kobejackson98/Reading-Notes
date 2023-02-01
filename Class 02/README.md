@@ -34,3 +34,15 @@ To answer the question of why this topic matters. Command Lines matter and are i
 
 1. First Step is to search for the terminal by hitting the Command Button + The Space Bar
 2. Second Step is to search " Terminal" in the spacebar of the Spotlight Search
+
+
+#### The Shell, Bash 
+
+1. Inside the terminal you have the shell, this is the part of the operating system that shows/defines how the terminal will behave/work and look are running the particular commands.
+2. There are different shells available but the most common one is called bash which stands for Bourne.
+3. To see what shell you are using, you can use the command echo. " Echo is a command line which is used to display messages."
+
+
+#### The Command Line Shortcuts 
+
+First Shortcut: When the user enters commands, those commands are stored in history! The user is able to traverse this history using the up and down keys. By doing this you don't have to waste time retyping commands.
