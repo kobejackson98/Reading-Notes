@@ -38,22 +38,22 @@ To answer the question of why this topic matters. Command Lines matter and are i
 
 #### The Shell, Bash 
 
-1. Inside the terminal you have the shell, this is the part of the operating system that shows/defines how the terminal will behave/work and look are running the particular commands.
-2. There are different shells available but the most common one is called bash which stands for Bourne.
+1. Inside the terminal you have the shell, this is the part of the operating system that shows/defines how the terminal will work and look are running the particular commands.
+2. There are different shells available but the most common one is called bash.
 3. To see what shell you are using, you can use the command echo. " Echo is a command line which is used to display messages."
 
 
 #### The Command Line Shortcuts 
 
-First Shortcut: When the user enters commands, those commands are stored in history! The user is able to traverse this history using the up and down keys. By doing this you don't have to waste time retyping commands.
+First Shortcut: When the user enters commands, those commands are stored in history! The user is able to search this history using the up and down keys. By doing this you don't have to waste time retyping commands.
 
 ### Basic Navigation 
 
 
-#### Abbreviations: A Lot of Commands in Linux are named as an abbreviation of a word or words describing them, by doing this it makes them easier to remember.
+#### Abbreviations: A Lot of Commands in Linux are named as an abbreviation of a word or words describing them, by doing this it makes them easier to remember and use at a later date.
 
-**PWD** - Print Working Directory (This command tells you what your current or present working directory is) 
-  - **PWD** is important, because a lot of commands on the terminal  will rely on me being in the right location, I need to make use of this command to remind myself of where I presently are working.
+**PWD** - Print Working Directory (This command tells you what your current working directory is) 
+  - **PWD** is important because  I will use it  to make use of this command to remind myself of where I presently am working.
 
 **ls** - List ( This command tells you what is in your current directory. But ** ls ** can be used more powerfully 
 
@@ -71,9 +71,22 @@ First Shortcut: When the user enters commands, those commands are stored in hist
 
 #### Additional Info 
 
-**~** (tilde) - This is a shortcut for your home directory.
-**.** (dot) -  This is a reference to your current directory.
-**..** (dotdot)  - This is a reference to the parent directory.
+**~** (tilde) - This is a shortcut for the users home directory.
+**.** (dot) -  This is a reference for the users current directory.
+**..** (dotdot)  - This is a reference for the parent directory.
 
 **cd** - Stands for change of directory, also allows you to move around in the system. *Tip* : If the user runs this command **cd** without any arguments then it will take the user back to the home directory.
 
+### More Information On Files
+
+**file** obtain information about what type of file a file or directory is.
+ **ls - a** List the contents of a directory, including hidden files.
+ 
+ 1. Everything is a file under Linux Even directories.
+ 2. Linux is an extensionless system Files can have any extension they like or none at all.
+ 3. Linux is **CASE** sensitive
+
+## Things I want to learn more about.
+
+1. What is the best way to study and learn more about the command line?
+2. What is the best way to automate the terminal?
