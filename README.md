@@ -11,7 +11,11 @@ Hey Everybody! My name is Kobe Jackson, I am a 24 year old software engineer stu
 ## Connect With Me!
 
 [**Github Profile**](/https://github.com/kobejackson98/).
+
 [**Linkedin Profile**](/https://www.linkedin.com/in/kobejackson98/).
+
+
+# Table Of Contents
 
 
 ## [Class 01](/ Reading-Notes/Class01).
