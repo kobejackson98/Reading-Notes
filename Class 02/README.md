@@ -1,2 +1,2 @@
-##Class 02 Notes
+## Class 02 Notes
 
