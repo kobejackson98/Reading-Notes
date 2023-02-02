@@ -47,7 +47,4 @@ Here are the links to my reading notes and assignments for classes 01-15 for sec
 ### [Class 14](/Reading-Notes/201/Class14)
 ### [Class 15](/Reading-Notes/201/Class15)
 
-
-## Class 02
-
-Class 02 Stuff  
+ 
