@@ -17,7 +17,7 @@ Hey Everybody! My name is Kobe Jackson, I am a 24 year old software engineer stu
 
 # Table Of Contents
 
-
+##
 ## [Class 01](/ Reading-Notes/Class01).
 
 Today we made a Github Page Site
