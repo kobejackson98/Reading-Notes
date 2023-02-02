@@ -16,5 +16,5 @@ Hey Everybody! My name is Kobe Jackson, I am a 24 year old software engineer stu
 
 ### [Code 102 Reading Notes](/Reading-Notes/102/)
 
-### [Code 201 Reading Notes]
+### [Code 201 Reading Notes](/Reading-Notes/201/)
 
