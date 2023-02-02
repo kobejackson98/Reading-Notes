@@ -31,7 +31,7 @@ Here are the links to my reading notes and assignments for classes 01-08 for sec
 
 Here are the links to my reading notes and assignments for classes 01-15 for section 201.
 
-### [Class 01](/Reading-Notes/201/Class01)
+### [Class 01](/Reading-Notes/201/Class01) 
 ### [Class 02](/Reading-Notes/201/Class02)
 ### [Class 03](/Reading-Notes/201/Class03)
 ### [Class 04](/Reading-Notes/201/Class04)
