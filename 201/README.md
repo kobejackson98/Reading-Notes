@@ -1,4 +1,8 @@
-# Table Of Contents
+# Reading Notes & Assignments For Section 201
+
+This is where the reading notes and assignemnts for course 201 Section will live.
+
+## Table Of Contents
 
 Here are the links to my reading notes and assignments for classes 01-15 for section 201.
 
