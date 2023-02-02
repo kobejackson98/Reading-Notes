@@ -1,6 +1,6 @@
 # Reading Notes  
 
-This is for note taking for Code Crew Classes  
+This website will contain my notes and assignments for the upcoming sections in my Code Crew Coding journey.
 
 ## Who is Kobe?  
 
