@@ -3,6 +3,8 @@
 The reason this topic matters is because it is teaching us the importance of knowing how the computer operates and how to navigate the computer easily.
 
 ### References
+https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf
+
 https://ryanstutorials.net/linuxtutorial/commandline.php
 
 https://ryanstutorials.net/linuxtutorial/navigation.php
@@ -13,7 +15,25 @@ https://ryanstutorials.net/linuxtutorial/aboutfiles.php
 
 ### Understanding The Lessons
 
-In the following sections we will focus on the three websites listed to gain knowledge on these topics.
+In the following sections we will focus on the four websites listed to gain knowledge on these topics.
+
+#### Text Editor
+
+Text Editor - A text editor is a software a user can download or find online. The main purpose is to use the software or platform to enter text to help you build a website.
+
+##### Features The User Should Look For In A Text Editor.
+
+1. Syntax Highlighting
+2. Themes
+3. Code Completion
+
+##### Understanding Text Editors And IDE's
+
+IDE - Integrated Development Environment. An IDE has many functions, it is a text editor, a file manager, a compiler, and a debugger all in one software.
+
+Text Editors - Main job is to edit and manage texts and different files.
+
+
 
 
 #### The Command Line
