@@ -1,6 +1,6 @@
 # Reading Notes  
 
-This website will contain my notes and assignments for the upcoming sections in my Code Crew Coding journey.
+This website will contain my notes and assignments for the upcoming sections in my Code Crew software engineering journey.
 
 ## Who is Kobe?  
 
