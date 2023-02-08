@@ -134,6 +134,7 @@ In programming, Semantics refers to the meaning of a piece of code. For example 
 #### Some Of The Benefits Of Writing Semantic Markup
 
 1. Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+
 2. Screen readers can use it as a signpost to help visually impaired users navigate a page
 
 3. Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
