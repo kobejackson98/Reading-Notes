@@ -2,7 +2,7 @@
 
 In this lesson, we will focus on learning more about Programming With Javascript.
 
-## References 
+## References  
 
 1. https://developer.mozilla.org/en-US/docs/Glossary/Control_flow
 
@@ -48,4 +48,38 @@ Function Invocation: The code inside the function will execute when "something" 
 
 3. Automatically (self invoked
 
-Function Return is when a JavaScript reaches a return statement, the function will stop executing.
+Function Return is when a JavaScript reaches a return statement, the function will stop executing.  
+
+If the function was invokedd from a statement, JavaScript will return to execute the code after the invoking statement.  
+
+To be noted: Functions often compute a return value. The return value is "returned back to the "caller".
+
+#### More Info On Functions?  
+
+The user can reuse code: The user can define the code once, and use it many times even with different arguments to produce different results.
+
+Accessing a function without () will return the function object instead of the function result.
+
+Functions can be used the same way as the user use variables, in all types of formulas, assignments, and calculations.
+
+Variables declared within a JavaScript function, become Local to the function, Local variables can only be accessed from within the function.
+
+### Lesson Three JavaScript Operators
+
+There are different types of JavaScript operators.
+
+1. Arithmetic Operators - Used to perfrom arithmetic on numbers.
+
+2. Assignment Operators - Assign values to JavaScript variables.
+
+3. Comparison Operators - Used in logical statements to determine equality or difference between variables or values.
+
+4. Logical Operators - Used to determine the logic between variables or values.
+
+5. Conditional Operators - Assignes a value to a variable based on some condition.  
+
+6. Type Operators - Based off the description/example. Can return the type of a variable,  
+ 
+### Things I Want To Know More About
+
+1.  I would like to deepen my knowledge in the areas of functions and using the JavaScript operators.
